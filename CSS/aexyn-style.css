@@ -1245,10 +1245,7 @@ a.email-verify-btn.custom-btn {
 .custom-account-container-wrapper .email-verification p {
     color: #a6afa9;
 }
-.custom-account-container-wrapper {
-    padding-top: 50px;
-    padding-bottom: 50px;
-}
+
 .have-alredy-account {
     margin-bottom: 15px;
     color: red;
